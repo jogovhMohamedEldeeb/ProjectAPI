@@ -1,0 +1,11 @@
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\bin\Debug\net8.0\Academic.Core.deps.json
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\bin\Debug\net8.0\Academic.Core.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\bin\Debug\net8.0\Academic.Core.pdb
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.AssemblyInfoInputs.cache
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.AssemblyInfo.cs
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.csproj.CoreCompileInputs.cache
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\refint\Academic.Core.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\Academic.Core.pdb
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Core\obj\Debug\net8.0\ref\Academic.Core.dll

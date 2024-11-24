@@ -1,0 +1,15 @@
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\bin\Debug\net8.0\Academic.Repository.deps.json
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\bin\Debug\net8.0\Academic.Repository.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\bin\Debug\net8.0\Academic.Repository.pdb
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.AssemblyInfoInputs.cache
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.AssemblyInfo.cs
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.csproj.CoreCompileInputs.cache
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\refint\Academic.Repository.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.pdb
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\ref\Academic.Repository.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\bin\Debug\net8.0\Academic.Core.dll
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\bin\Debug\net8.0\Academic.Core.pdb
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.Repository.csproj.AssemblyReference.cache
+F:\web_dot_net\GP_Academic\Academic.API's\Academic.Repository\obj\Debug\net8.0\Academic.F17EED73.Up2Date
